@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.Section_1{
+ 
+    font-size: medium;
+}
+
+.Intro,p{
+    color: aqua;
+    margin-left: 10px;
+}
+
+.card_1:hover{color: aqua;
+
+}
+
+.screen{
+    margin-bottom: 80px;
+}
